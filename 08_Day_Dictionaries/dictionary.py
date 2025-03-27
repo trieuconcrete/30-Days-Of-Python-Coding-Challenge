@@ -1,6 +1,6 @@
 # 30 Days Of Python Coding Challenge
 ###################################
-# Day 8 - Dictionaries
+# Day 8 - Dictionary in Python
 ###################################
 empty_dict = {}
 person = {
