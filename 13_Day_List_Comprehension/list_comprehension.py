@@ -1,6 +1,6 @@
 # 30 Days Of Python Coding Challenge
 ###################################
-# Day 11 - List Comprehension in Python
+# Day 13 - List Comprehension in Python
 ###################################
 # One way
 language = 'python'
