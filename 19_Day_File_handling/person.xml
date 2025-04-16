@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<person gender="male">
+  <name>Trieu</name>
+  <country>VietName</country>
+  <city>DaNang</city>
+  <skills>
+    <skill>JavaScrip</skill>
+    <skill>React</skill>
+    <skill>Python</skill>
+  </skills>
+</person>
